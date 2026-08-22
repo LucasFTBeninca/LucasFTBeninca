@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**LucasFTBeninca/LucasFTBeninca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Produção formado em 2025, atuando com **ERP Sistemas**. Hoje sou Analista de TI, cuidando do backlog e atualizações de ERP e atuando como PO do sistema.
 
-Here are some ideas to get you started:
+## 📌 Projetos em destaque
+- **[sales-web-mvc](https://github.com/LucasFTBeninca/sales-web-mvc)** — Aplicação ASP.NET Core MVC com Entity Framework Core
+- **[xadrez-console](https://github.com/LucasFTBeninca/xadrez-console)** — Jogo de xadrez em C# no console, aplicando POO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+C# · .NET · ASP.NET Core MVC · Entity Framework · HTML/JS · SQL · Python
+
+## 📫 Contato
+LinkedIn: https://www.linkedin.com/in/lucasbeninca/
